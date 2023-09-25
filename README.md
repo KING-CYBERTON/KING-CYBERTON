@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stephen Kimani</h1>
 <h3 align="center">A passionate web and android developer from Kenya</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=king-cyberton" alt="king-cyberton" /></a> </p>
+
 
 - 🔭 I’m currently working on [GoodTimes_trends](https://goodtimestrend.com)
 
@@ -9,7 +9,8 @@
 
 - 💬 Ask me about **Flutter, JavaScript**
 
-- ⚡ Fun fact **I think am funny and love music production**
+- ⚡ Fun fact **I think am funny and love music production and anime**
+- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://media.tenor.com/sTKqx9K46T0AAAAC/ayanokoji-classroom-of-the-elite.gif" alt="king-cyberton" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

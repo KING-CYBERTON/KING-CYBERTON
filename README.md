@@ -9,7 +9,7 @@ Nairobi, Kenya 📍 | Building financial and cross-platform applications with Fl
 
 ### 🧑‍💻 About Me
 
-- 💼 Currently **IT Manager at Kassmatt Supermarkets**, managing infrastructure, inventory systems, and internal tooling
+
 - 🔗 Experienced in **API integration for fintech platforms** — USSD/SMS gateways, M-Pesa Daraja API, and real-time wallet transactions
 - 📱 Built cross-platform mobile apps using **Flutter, Dart, Kotlin, and Firebase**
 - 🌐 Web development with **JavaScript, React, Next.js**, and backend integration using **Laravel and Node.js**

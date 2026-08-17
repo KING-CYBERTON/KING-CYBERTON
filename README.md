@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Stephen Kimani Wambui 👋</h1>
+
 <h3 align="center">Software Engineer | Mobile & Web Development | Fintech API Integration</h3>
 
 <p align="center">

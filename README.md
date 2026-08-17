@@ -1,5 +1,5 @@
 
-<h3 align="center">Software Engineer | Mobile & Web Development | Fintech API Integration</h3>
+<h2 align="center">Software Engineer | Mobile & Web Development | Fintech API Integration</h2>
 
 <p align="center">
 Nairobi, Kenya 📍 | Building financial and cross-platform applications with Flutter, React, and Python
@@ -53,7 +53,7 @@ Nairobi, Kenya 📍 | Building financial and cross-platform applications with Fl
 ### 🚀 Featured Projects
 
 - **Javi Ride** — Ride-hailing application with real-time wallet transactions, built on Laravel & Node.js with a Flutter front-end
-- **GoodTimes Trends** — [goodtimestrend.com](https://goodtimestrend.com)
+- **GoodTimes Trends** — 
 - **M-Pesa Daraja API Optimization** — Reduced codebase complexity and improved server-backend latency for a live fintech integration
 - **Ayopa POS ERP Implementation** — Deployed a multi-user POS/ERP system across retail locations
 
